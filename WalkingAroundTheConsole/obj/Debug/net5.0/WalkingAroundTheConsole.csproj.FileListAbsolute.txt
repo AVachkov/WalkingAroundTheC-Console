@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\bin\Debug\net5.0\WalkingAroundTheConsole.exe
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\bin\Debug\net5.0\WalkingAroundTheConsole.deps.json
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\bin\Debug\net5.0\WalkingAroundTheConsole.runtimeconfig.json
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\bin\Debug\net5.0\WalkingAroundTheConsole.runtimeconfig.dev.json
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\bin\Debug\net5.0\WalkingAroundTheConsole.dll
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\bin\Debug\net5.0\ref\WalkingAroundTheConsole.dll
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\bin\Debug\net5.0\WalkingAroundTheConsole.pdb
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\obj\Debug\net5.0\WalkingAroundTheConsole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\obj\Debug\net5.0\WalkingAroundTheConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\obj\Debug\net5.0\WalkingAroundTheConsole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\obj\Debug\net5.0\WalkingAroundTheConsole.AssemblyInfo.cs
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\obj\Debug\net5.0\WalkingAroundTheConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\obj\Debug\net5.0\WalkingAroundTheConsole.dll
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\obj\Debug\net5.0\ref\WalkingAroundTheConsole.dll
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\obj\Debug\net5.0\WalkingAroundTheConsole.pdb
+C:\Users\User\Desktop\My Builds\WalkingAroundTheConsole\WalkingAroundTheConsole\obj\Debug\net5.0\WalkingAroundTheConsole.genruntimeconfig.cache
